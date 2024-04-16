@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "ime": "Rock"
+  },
+  {
+    "id": 2,
+    "ime": "Metal"
+  },
+  {
+    "id": 3,
+    "ime": "Bluz"
+  },
+  {
+    "id": 4,
+    "ime": "Techno"
+  },
+  {
+    "id": 5,
+    "ime": "Pop"
+  },
+  {
+    "id": 6,
+    "ime": "Folk"
+  }
+]

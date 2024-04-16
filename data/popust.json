@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "ime": "",
+        "vrednost":""
+    },
+    {
+        "id": 1,
+        "ime": "5%",
+        "vrednost": 5
+    },
+    {
+        "id": 2,
+        "ime": "10%",
+        "vrednost": 10
+    },
+    {
+        "id": 3,
+        "ime": "20%",
+        "vrednost": 20
+    },
+    {
+        "id": 4,
+        "ime": "30%",
+        "vrednost": 30
+    },
+    {
+        "id": 5,
+        "ime": "50%",
+        "vrednost": 50
+    },
+    {
+        "id": 6,
+        "ime": "60%",
+        "vrednost": 60
+    }
+]

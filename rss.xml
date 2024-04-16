@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+	        <title>Mobile Shop | Home</title>
+			<link>https://marko2073.github.io/MobileShop/index.html</link>
+			<description>New products</description>
+        <item>
+	        <title>Mobile Shop | Shop</title>
+            <link>https://marko2073.github.io/MobileShop/product.html</link>
+            <description>New products</description>
+        </item>
+        <item>
+            <title>Mobile Shop | Contact</title>
+            <link>https://marko2073.github.io/MobileShop/contact.html</link>
+            <description>News contact</description>
+        </item>
+        <item>
+            <title>Mobile Shop | Author</title>
+            <link>https://marko2073.github.io/MobileShop/author.html</link>
+            <description>News about author</description>
+        </item>
+        <item>
+        	<title>Mobile Shop | Checkout</title>
+            <link>https://marko2073.github.io/MobileShop/checkout.html</link>
+            <description>News checkout</description>
+        </item>
+	</channel>
+
+</rss> 

@@ -1,0 +1,22 @@
+[
+    {
+        "putanja": "index.html",
+        "stranica": "Home"
+    },
+    {
+        "putanja": "product.html",
+        "stranica": "Shop"
+    },
+    {
+        "putanja": "contact.html",
+        "stranica": "Contact"
+    },
+    {
+        "putanja": "author.html",
+        "stranica": "Author"
+    },
+    {
+        "putanja": "checkout.html",
+        "stranica": "<i class=\"fa-solid fa-cart-shopping\"></i><span id=\"total\"></span>"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "cenaOd":0,
+        "cenaDo":100
+    },
+    {
+        "id": 1,
+        "cenaOd":100,
+        "cenaDo":300
+    },
+    {
+        "id": 1,
+        "cenaOd":300,
+        "cenaDo":500
+    },
+    {
+        "id": 1,
+        "cenaOd":500,
+        "cenaDo":700
+    },
+    {
+        "id": 1,
+        "cenaOd":700,
+        "cenaDo":1000
+    },
+    {
+        "id": 1,
+        "cenaOd":1000,
+        "cenaDo":1500
+    }
+]

@@ -1,0 +1,419 @@
+[
+  {
+    "id": 1,
+    "model": "The Stranglers",
+    "new": true,
+    "brandId": 1,
+    "popustId": 1,
+    "genreId": 5,
+    "ocenaid": 5,
+    "cena": {
+      "stara": 1000,
+      "nova": 999
+    },
+    "godina": "1973",
+    "boja": "Black",
+    "sistem": "Sound12",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/sabbathvol4.png",
+      "alt": "Stranglers"
+    }
+  },
+  {
+    "id": 2,
+    "model": "Gost Town",
+    "new": true,
+    "brandId": 1,
+    "popustId": 2,
+    "genreId": 4,
+    "ocenaid": 4,
+    "cena": {
+      "stara": 800,
+      "nova": 799
+    },
+    "godina": "1973",
+    "boja": "Gray",
+    "sistem": "Sound 13",
+    "procesor": "A13 Bionic chip",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/sabbathvol4.png",
+      "alt": "Ghost Town"
+    }
+  },
+  {
+    "id": 3,
+    "model": "The Cure",
+    "new": true,
+    "brandId": 1,
+    "popustId": 2,
+    "genreId": 4322,
+    "ocenaid": 4,
+    "cena": {
+      "stara": 1200,
+      "nova": 1100
+    },
+    "godina": 1982,
+    "boja": "Rose gold",
+    "ekran": "5.8 inch Super Retina XDR display",
+    "kamera": "Triple 12MP camera system",
+    "sistem": "Sound 23",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/sabbathvol4.png",
+      "alt": "The Cure"
+    }
+  },
+  {
+    "id": 4,
+    "model": "Maddness",
+    "new": false,
+    "brandId": 1,
+    "popustId": 2,
+    "genreId": 3,
+    "ocenaid": 4,
+    "cena": {
+      "stara": 800,
+      "nova": 799
+    },
+    "godina": 1999,
+    "boja": "Space Gray",
+    "ekran": "5.8 inch Super Retina XDR display",
+    "kamera": "Triple 12MP camera system",
+    "sistem": "Sound Multimedija",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/holyMountain.jpeg",
+      "alt": "The maddness"
+    }
+  },
+  {
+    "id": 5,
+    "model": "The gun club",
+    "new": false,
+    "brandId": 1,
+    "popustId": 3,
+    "genreId": 5,
+    "ocenaid": 1,
+    "cena": {
+      "stara": 1400,
+      "nova": 400
+    },
+    "godina": 1980,
+    "boja": "Product red",
+    "sistem": "Stereo",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/lawoman.jpg",
+      "alt": "The gun club"
+    }
+  },
+  {
+    "id": 6,
+    "model": "Metallica",
+    "new": false,
+    "brandId": 1,
+    "popustId": 3,
+    "genreId": 4,
+    "ocenaid": 1,
+    "cena": {
+      "stara": 1400,
+      "nova": 1380
+    },
+    "godina": 1991,
+    "boja": "Product red",
+    "sistem": "Multimedija",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/queens.png",
+      "alt": "Metallica"
+    }
+  },
+  {
+    "id": 7,
+    "model": "Megadeth",
+    "new": false,
+    "brandId": 2,
+    "popustId": 0,
+    "genreId": 5,
+    "ocenaid": 5,
+    "cena": {
+      "stara": 1200,
+      "nova": 1099
+    },
+    "godina": 1988,
+    "boja": "Phantom Black",
+    "sistem": "Stereo",
+    "procesor": "Exynos 2100",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/holyMountain.jpeg",
+      "alt": "Megadeth"
+    }
+  },
+  {
+    "id": 8,
+    "model": "The Clash",
+    "new": false,
+    "brandId": 3,
+    "popustId": 2,
+    "genreId": 5,
+    "ocenaid": 3,
+    "cena": {
+      "stara": 800,
+      "nova": 720
+    },
+    "godina": 1979,
+    "boja": "Gray",
+    "sistem": "Stereo",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/queens.png",
+      "alt": "The Clash"
+    }
+  },
+  {
+    "id": 9,
+    "model": "Joy Division",
+    "new": false,
+    "brandId": 4,
+    "popustId": 2,
+    "genreId": 3,
+    "ocenaid": 2,
+    "cena": {
+      "stara": 190,
+      "nova": 165
+    },
+    "godina": 1980,
+    "boja": "Black",
+    "sistem": "Stereo/Multimedija",
+    "procesor": "Snapdragon 5665",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/holyMountain.jpeg",
+      "alt": "Joy-Division"
+    }
+  },
+  {
+    "id": 10,
+    "model": "Pink Floyd",
+    "new": true,
+    "brandId": 5,
+    "popustId": 2,
+    "genreId": 5,
+    "ocenaid": 5,
+    "cena": {
+      "stara": 700,
+      "nova": 640
+    },
+    "godina": 1973,
+    "boja": "Black",
+    "sistem": "Stereo",
+    "procesor": "Exynos 577",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/holyMountain.jpeg",
+      "alt": "Pink-Floyd"
+    }
+  },
+  {
+    "id": 11,
+    "model": "Eric Clapton",
+    "new": false,
+    "brandId": 6,
+    "popustId": 4,
+    "genreId": 5,
+    "ocenaid": 2,
+    "cena": {
+      "stara": 800,
+      "nova": 560
+    },
+    "godina": 1990,
+    "boja": "white",
+    "sistem": "Stereo",
+    "procesor": "snapdragon 6700",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/sabbathvol4.png",
+      "alt": "Eric Clapton"
+    }
+  },
+  {
+    "id": 12,
+    "model": "War",
+    "new": true,
+    "brandId": 3,
+    "popustId": 3,
+    "genreId": 3,
+    "ocenaid": 2,
+    "cena": {
+      "stara": 190,
+      "nova": 140
+    },
+    "godina": 1963,
+    "boja": "Blue",
+    "sistem": "Stereo",
+    "specifikacije": [
+      {
+        "ime": "432Hz",
+        "vrednost": 1
+      },
+      {
+        "ime": "Sound",
+        "vrednost": 0
+      },
+      {
+        "ime": "Slusalice",
+        "vrednost": 0
+      }
+    ],
+    "slike": {
+      "slika1": "img/lawoman.jpg",
+      "alt": "War"
+    }
+  }
+]
