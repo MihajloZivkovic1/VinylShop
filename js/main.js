@@ -686,7 +686,7 @@ if (window.location.pathname == "/contact.html" || window.location.pathname == "
       errorMessages[1].textContent = "Field can't be empty.";
       nameChc = false;
     } else {
-      errorMessages[1].textContent = "Change the format of the name. Example: Marko Markovic";
+      errorMessages[1].textContent = "Change the format of the name. Example: Pera Peric";
       nameChc = false;
     }
   }
