@@ -212,7 +212,7 @@ function filtrirajPoNazivu(proizvodi) {
 function promena() {
   var proizvodi = dohvatanje("sviProizvodi");
   console.log(proizvodi);
-  if (window.location.pathname == "/index.html") {
+  if (window.location.pathname == "/VinylShop/index.html") {
 
     proizvodi = proizvodi.filter(product => product.new == true);
     console.log(proizvodi);
@@ -526,7 +526,7 @@ function ispisProizvodaKorpa() {
     korpaDiv.innerHTML = html;
   }
 }
-if (window.location.pathname == "/index.html" || window.location.pathname == "/checkout.html" || window.location.pathname == "/product.html") {
+if (window.location.pathname == "/VinylShop/index.html" || window.location.pathname == "/VinylShop/checkout.html" || window.location.pathname == "/VinylShop/product.html") {
 
   ajaxCallBack("brend.json", function (rezultatBrend) {
     ubacivanje("savBrend", rezultatBrend);
@@ -550,7 +550,7 @@ if (window.location.pathname == "/index.html" || window.location.pathname == "/c
   ajaxCallBack("sortiranje.json", function (rezultatSortiranje) {
     kreirajPadajucuListu(rezultatSortiranje, "ddlSort", "Sort", "sortiranje", "sort");
   })
-  if (window.location.pathname == "/index.html") {
+  if (window.location.pathname == "/VinylShop/index.html") {
     ajaxCallBack("proizvodi.json", function (rezultatProizvoda) {
       var rez = [];
       rezultatProizvoda.forEach(element => {
@@ -564,7 +564,7 @@ if (window.location.pathname == "/index.html" || window.location.pathname == "/c
       ubacivanje("sviProizvodi", rezultatProizvoda);
     })
   }
-  if (window.location.pathname == "/product.html") {
+  if (window.location.pathname == "/VinylShop/product.html") {
     ajaxCallBack("proizvodi.json", function (rezultatProizvoda) {
 
       ispisProizvoda(rezultatProizvoda);
@@ -657,7 +657,7 @@ if (window.location.pathname == "/index.html" || window.location.pathname == "/c
   });
 
 }
-if (window.location.pathname == "/contact.html" || window.location.pathname == "/checkout.html") {
+if (window.location.pathname == "/VinylShop/contact.html" || window.location.pathname == "/VinylShop/checkout.html") {
   const fullName = document.getElementById('name');
   const email = document.getElementById('email');
   const change = document.getElementById('change');
@@ -803,7 +803,7 @@ if (window.location.pathname == "/contact.html" || window.location.pathname == "
 
   });
 }
-if (window.location.pathname == "/checkout.html") {
+if (window.location.pathname == "/VinylShop/checkout.html") {
   ispisProizvodaKorpa();
   function ispisBroj(korpa) {
     var korpa = dohvatanje("korpa")
